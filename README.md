@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **MERN stack projects**
 
-- 🌱 I’m currently learning **PHP Laravel, Next.js , React-Native**
+- 🌱 I’m currently learning ** Next.js , React-Native**
 
-- 📫 How to reach me **badboyminato123@gmail.com**
+- 📫 How to reach me **pyaeminswan6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
